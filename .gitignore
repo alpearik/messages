@@ -1,2 +1,5 @@
+# dependencies
 node_modules/
-process.env.MONGODB_URI
+
+# local env files
+.env*.local
